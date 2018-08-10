@@ -2,6 +2,8 @@
 
 Please note - although I continue to use Enguino in my plane, no further development is likely on this project. As it is open source feel free to fork and otherwise make use of any portion of Enguino.
 
+![Image of display](https://github.com/kalazzerx/enguino/images/display.png)
+
 ## General Description
 
 Enguino (a portmanteau of engine and Arduino) is an inexpensive _(as cheap as $100)_, lightweight _(2 ounces w/o case or cables)_, small _(about the size of a bar of bath soap)_, [open source] engine monitor for experimental aircraft. The engine monitor is displayed on a tablet as a web page. Here is an [example] of a typical Enguino display. The tablet can be an iPad, an Android or any other tablet that includes a modern web browser and has wifi.
