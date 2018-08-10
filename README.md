@@ -2,7 +2,7 @@
 
 Please note - although I continue to use Enguino in my plane, no further development is likely on this project. As it is open source feel free to fork and otherwise make use of any portion of Enguino.
 
-![Image of display](https://github.com/kalazzerx/enguino/images/display.png)
+![Image of display](https://github.com/kalazzerx/enguino/display.png)
 
 ## General Description
 
